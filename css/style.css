@@ -1,0 +1,178 @@
+*{
+	font-family: 'PT Sans', sans-serif;
+
+}
+/*header start*/
+header{
+	background-color: #fcdb00;
+	padding: 18px 0;
+	text-transform: u
+}
+.menu ul li a{
+	font-size: 22px;
+	font-weight: 700;
+	color: #010101 !important;
+    padding: 0 40px !important;
+    transition: .4s;
+}
+.menu ul li:last-child a{
+	margin-right:0px !important;
+	padding-right: 0px !important;
+}
+.menu ul li a:hover{
+	color: #fff !important;
+}
+/*Header end*/
+/*slider start*/
+.slider{
+	background-color: #fcdb00;
+	padding-bottom: 100px;
+}
+.s_content{
+	margin-top: 70px;
+}
+.s_content h1{
+	font-size: 32px;
+	font-weight: 700;
+	color: #010101 !important;
+	margin: 0;
+
+
+}
+.s_content h2{
+	font-size: 20px;
+	color: #313841 !important;
+	line-height: 24px;
+	word-spacing: 1px ;
+	letter-spacing: 1px;
+	margin: 20px 0;
+	
+}
+.s_content p{
+   color: #555555;
+   word-spacing: 1px ;
+   margin-bottom: 30px;
+}
+.s_icon{
+	font-size: 42px;
+	color: #010101;
+}
+.s_icon li{
+	margin-right: 30px !important;
+}
+.s_img{
+}
+.c_ci {
+    bottom: -80px;
+}
+.c_ci li {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+/*slider end*/
+/*service start*/
+.service{
+	padding: 100px 0 30px;
+}
+.title{
+	margin: 0 0 70px;
+}
+.t_h1{
+	font-size: 32px;
+	font-weight: 700;
+	color: #010101;
+	margin: 0 0 20px;
+
+}
+.t_p{
+	font-size: 20px;
+	line-height: 24px;
+	letter-spacing: 1px;
+	color: #313841;
+	margin: 0;
+}
+.ser_icon{
+	font-size: 50px;
+	color: #010101;
+}
+.ser_text{
+	margin-top: 12px;
+}
+.ser_text h2{
+	font-size: 22px;
+	color: #010101;
+}
+.ser_text p{
+	color: #898989;
+}
+.single{
+	margin-bottom: 60px;
+}
+/*service end*/
+
+/*contact start*/
+
+.contact{
+	background-color: #010101;
+	padding: 100px 0 30px;
+}
+
+.yellow{
+	color: #fcdb00;
+}
+.ash{
+	color: #898989;
+}
+
+.title2 {
+    margin: 0 0 35px;
+}
+.form_class{}
+.form_class input{
+	width: 100%;
+	height: 50px;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 16px;
+	color: #898989;
+
+}
+.btn_submit{
+	font-family: 'PT Sans', sans-serif;
+	font-weight: 700;
+	color: #010101;
+	background-color: #fcdb00;
+	width: 130px;
+	height: 50px;
+	-webkit-transition: .3s;
+	-moz-transition: .3s;
+}
+.btn_submit:hover{
+	background-color: #fff;
+}
+/*contact end*/
+/*footer start*/
+footer{
+	background-color: #010101;
+	padding: 50px 0 50px;
+}
+.f_s_icon{
+	font-size: 42px;
+	color: #fcdb00;
+	margin: 10px;
+	background-color: ;
+}
+.f_s_icon:hover{
+	color: #fff;
+}
+.f_con li a{
+	color: #ffffff;
+	line-height: 20px;
+	margin: 5px 0;
+	display: inline-block;
+	text-decoration: none;
+}
+.f_con li a:hover{
+	color: #fcdb00;
+}
+/*footer end*/
